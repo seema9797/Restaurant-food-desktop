@@ -1,23 +1,21 @@
-# Getting Started with Create React App
+#Reastaurant-Food
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features
+food Searching using function component
+Information about Itme
 
 In the project directory, you can run:
 
-### `yarn start`
+### `Technologies`
+1. Electron js
+2. React js
+3. Bootstrap
+4. css
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Demo`
+https://restaurant-food-desktop-app.netlify.app/
 
 ### `yarn build`
 
